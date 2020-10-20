@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+2dd2b1994446e152b1e3e79c9233f62edba14877 refs/heads/master
+5f06f997b6cd0fb7c624455d9f54deba9d79c132 refs/tags/pkg-config-0.24
+^37d59a0c44ecd2b380cf9190cfd7f114d17eb569
+fc980e4bbaca606dee2ac1f4e43fd41e13ac3fcf refs/tags/pkg-config-0.25
+^b8eb53fd33b916f832a13997fe7b495ea5339441
+4cffb392ac5ddbd6465dc0fb114b94b6f0f2db85 refs/tags/pkg-config-0.26
+^1d1d7ce4147fcaa1f8b0b58cf67980dec2cde864
+e58ee07819472997212755fa8209419553410684 refs/tags/pkg-config-0.27
+^234da3983b46515fb3b7e2af6927ef1624b1f0ca
+3ddb9088456a3cfd8c1928d9056f77f59af9df3c refs/tags/pkg-config-0.27.1
+^a35c3fc95e00c6817be124ec335713edfbfe913d
+c7cbb75ece94e5860e7d7606daf195db767ca4d2 refs/tags/pkg-config-0.28
+^74ceac54ef6f9247c00f08eecd8cca811a3c5934
+9ebabce13167ede0ff52677b55ca53a95a050c4a refs/tags/pkg-config-0.29
+^5914edfe9604abfedd220103cbac382fc4d268bb
+a74b22de6181bdcf985a82304b42b04a596e3dfb refs/tags/pkg-config-0.29.1
+^87152c05be88ca8be71a3a563f275b3686d32c28
+11f32291d461161676c43a903cab9b9b647f571e refs/tags/pkg-config-0.29.2
+^edf8e6f0ea77ede073f07bff0d2ae1fc7a38103b
