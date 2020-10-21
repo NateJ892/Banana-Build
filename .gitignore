@@ -1,5 +1,6 @@
-*/tmp/*
-*/cache/*
-*/downloads/*
-*/sstate-cache/*
-bitbake-cookerdaemon.log
+BananaImage/cache/*
+BananaImage/downloads/*
+BananaImage/sstate-cache/*
+BananaImage/tmp-glibc/*
+BananaImage/tmp/*
+BananaImage/*.log

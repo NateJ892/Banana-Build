@@ -20,7 +20,6 @@ WIFI_SUPPORT = " \
 	linux-firmware-ath9k \
 	linux-firmware-ralink \
 	linux-firmware-wl18xx \
-	wireless-tools \
 	wpa-supplicant \
 "
 
@@ -49,7 +48,6 @@ DEV_SDK_INSTALL = " \
     nasm \
     perl-modules \
     pkgconfig \
-    python-modules \
     python3-modules \
     strace \
     mtd-utils \
@@ -92,7 +90,6 @@ EXTRA_TOOLS_INSTALL = " \
 IMAGE_INSTALL += " \
 	${CORE_OS} \
 	${DEV_SDK_INSTALL} \
-	${DEV_EXTRAS} \
 	${EXTRA_TOOLS_INSTALL} \
 	${KERNEL_EXTRA_INSTALL} \
 	${WIFI_SUPPORT} \
