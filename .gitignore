@@ -4,3 +4,4 @@ BananaImage/sstate-cache/*
 BananaImage/tmp-glibc/*
 BananaImage/tmp/*
 BananaImage/*.log
+BananaImage/conf/bblayers.conf

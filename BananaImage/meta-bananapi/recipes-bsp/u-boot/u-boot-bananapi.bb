@@ -4,6 +4,9 @@ DEPENDS += " bc-native dtc-native swig-native python3-native"
 LICENSE = "GPLv2"
 COMPATIBLE_MACHINE = "bananapi"
 
+LICENSE = "GPLv2"
+LIC_FILES_CHKSUM = "file://Licenses/gpl-2.0.txt;md5=b234ee4d69f5fce4486a80fdaf4a4263"
+
 PV = "2020.10"
 PR = ""
 
